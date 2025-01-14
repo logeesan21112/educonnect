@@ -1,0 +1,3 @@
+[submodule "educonnect_front"]
+  path = educonnect_front
+  url = https://github.com/logeesan21112/educonnect.git
